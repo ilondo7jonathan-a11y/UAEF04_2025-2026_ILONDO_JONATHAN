@@ -1,11 +1,5 @@
 # UAEF04_2025-2026_ILONDO_JONATHAN
-Backtest DCA vs Lump Sum sur l'ETF Amundi MSCI World (CW8) — Mini-mémoire UAEF04, Licence Analyse Économique et Financière, CNAM Paris (2025-2026)
-
-# Backtest DCA vs Lump Sum — ETF Amundi MSCI World (CW8)
-
-Simulations réalisées dans le cadre du mini-mémoire UAEF04 
-(Méthodologie), Licence Analyse Économique et Financière (LG043), 
-CNAM Paris — Année universitaire 2025-2026.
+Backtest DCA vs Lump Sum sur l'ETF Amundi MSCI World (CW8)  Mini-mémoire UAEF04, Licence Analyse Économique et Financière, CNAM Paris 2025-2026
 
 ## Sujet du mémoire
 
@@ -30,8 +24,6 @@ Cours mensuels (Close) téléchargés via la bibliothèque Python
 
 ```invite de commande
 pip install yfinance pandas
-python backtest_haussier.py
-python backtest_crise.py
 ```
 
 ## Auteur
