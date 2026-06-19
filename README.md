@@ -37,8 +37,8 @@ Le code Python a été réalisé avec l'assistance de
 Mes compétences en Python ont été acquises grâce à :
 
 - **Livre** : Petite leçon de Python : Introduction pratique  et orientée projet
-- 
-- **Formation Udemy** : [Python pour l'Analyse Financière & Algorithmes de Trading](https://www.udemy.com/course/python-pour-analyse-financiere-et-trading-algorithmique/)
+  
+- **Formation Udemy** : Python pour l'analyse financière et le trading algorithmique
 
 ### Certificat de formation
 
