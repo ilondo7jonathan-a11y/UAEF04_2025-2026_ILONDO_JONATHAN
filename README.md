@@ -47,11 +47,3 @@ Mes compétences en Python ont été acquises grâce à :
 ## Auteur
 
 Ilondo Jonathan — CNAM Paris, 2026
-
-```invite de commande
-pip install yfinance pandas
-```
-
-## Auteur
-
-Ilondo Jonathan — CNAM Paris, 2026
