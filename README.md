@@ -1,12 +1,12 @@
 # Backtest DCA vs Lump Sum — ETF Amundi MSCI World (CW8)
 
 Simulations réalisées dans le cadre du mini-mémoire UAEF04, Licence Analyse Économique et Financière (LG043), 
-CNAM Paris — Année universitaire 2025-2026.
+CNAM paris année 2025-2026.
 
 ## Sujet du mémoire
 
-**"Le Dollar-Cost Averaging : mythe ou réalité pour l'investisseur 
-particulier français ?"**
+**Le Dollar-Cost Averaging : mythe ou réalité pour l'investisseur 
+particulier français ?**
 
 ## Contenu
 
@@ -32,7 +32,7 @@ jupyter notebook
 ## Outils et apprentissage
 
 Le code Python a été réalisé avec l'assistance de 
-**Claude** (Anthropic) comme outil d'aide à la programmation.
+Claude (Anthropic) comme outil d'aide à la programmation.
 
 Mes compétences en Python ont été acquises grâce à :
 
@@ -46,4 +46,4 @@ Mes compétences en Python ont été acquises grâce à :
 
 ## Auteur
 
-Ilondo Jonathan — CNAM Paris, 2026
+Ilondo Jonathan
